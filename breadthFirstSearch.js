@@ -1,9 +1,8 @@
 'use strict';
-
 const Node = require('./graphGenerator');
 
-const BFS = (start) => {
+const BFS = (start, searchFor) => {
 
-}
+};
 
 module.exports = BFS;
